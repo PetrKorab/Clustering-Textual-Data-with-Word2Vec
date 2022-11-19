@@ -5,4 +5,4 @@ Article available from [here](https://python.plainenglish.io/clustering-textual-
 
 The coding includes:
 * **word2vec_medium_article.ipynb** - data pre-processing, Word2Vec model training, PCA, K-means cluster visualization
-* **clustering.ows** - Orange (https://orangedatamining.com/) file that runs K-means clustering
+* **clustering.ows** - Orange (https://orangedatamining.com/) workflow that runs K-means clustering
